@@ -1,0 +1,30 @@
+body {
+    background-color: tomato;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    margin-top: 15%;
+    background-color: white;
+    height: 250px;
+    text-align: center;
+    padding: 3%;
+}
+.text {
+    font-family: 'Chelsea Market', cursive;
+    color: tomato;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.button {
+    font-family: 'Chelsea Market', cursive;
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+}
+.button a {
+    text-decoration: none;
+}
